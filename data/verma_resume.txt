@@ -1,0 +1,57 @@
+﻿Rahil Verma
+11903 Centurion Way, Potomac, MD | 301.331.2882 | rahil.verma@duke.edu
+
+
+EDUCATION
+        ss
+Duke University - B.S.E Biomedical Engineering, B.S. Computer Science, B.S. Math        Durham, NC, Aug 2022 – Current
+* Cumulative GPA: 3.82/4.00 | ACT: 36/36 | SAT2 Math 2: 800/800
+
+
+Winston Churchill High School - H.S. Diploma        Potomac, MD, Sep 2018 – Jun 2022
+* Cumulative GPA: 3.98/4.00 | AP Scholar with Distinction | Governor’s Merit Scholastic Award
+
+
+WORK EXPERIENCE        
+National Institute for Standards and Technologies (NIST)  – Pharmaceutical Research        Gaithersburg, MD
+Summer Undergraduate Research Fellowship (SURF) Intern        May 2023 – August 2023
+* Conducted independently designed experiments to optimize the stability of protein-based pharmaceutical formulations
+* Synthesized findings for weekly written and oral reports to my team, presented at an organization-wide showcase
+Center for Global Women’s Health Technologies (GWHT)  – Data Processing        Durham, NC
+Intern        Sept 2022 – May 2023
+* Utilized MATLAB and Python to colorize and sort animal luminescence images of lung metastasis tumor signaling
+* Created a novel grayscale-to-color script designed to display tumor signaling, cut processing times by hundreds of hours
+University of Maryland Biomedical Research Department  – Oncology/Genetics Research        Baltimore, MD
+Lab Assistant        June 2021 – Aug 2021
+* Investigated the causes for mutation in APE1 and SMUG1 associated genes through protein crystallization experiments
+National Aeronautics and Space Administration (NASA)  – Vector-Borne Disease Research        Remote
+STEM Enhancement in Earth Sciences (SEES) Intern        June 2020 – Aug 2020
+* Presented an independent award-winning study at 3 conferences on the effect of stormwater runoff on disease prevention
+
+
+
+
+LEADERSHIP & ACTIVITIES
+Duke Consulting Club  – Analyst        Durham, NC, Sep 2023 – Present
+* Managing lauch of Glow, an app created by a tech startup targeting event planning 
+* Lead weekly team meetings, communicate with client, research potential markets
+CS201 Data Structures and Algorithms  – Teaching Assistant        Durham, NC, Aug 2023 – Present
+* Lead a discussion section aimed at exploring fundamental Java principles such as runtime efficiency and algorithms
+* Answer student questions during weekly office hours, brainstorm teaching methods in weekly meetings
+Link – Social Media App, Founder        Durham, NC, Jan 2023 – Nov 2023
+* Designed to encourage in-person interactions, Link is a map-based ios app that allows users to plan spontaneous events in the busy world of college campuses and cities with a frictionless user interface
+* Leading a small team of developers using Xcode, Firebase, and Github, sold to Glow in November 2023
+Duke Enable – Prosthetics Development Club, Member        Durham, NC, Jan 2023 – Present
+* Use 3D scanning, CAD, MATLAB, and medical-grade 3D printers to design prosthetics for physically disabled patients
+* Developed a neural network of sensors to be used on general-use prosthetics that can be calibrated for each client
+AWARDS & RECOGNITION
+Awards: Community Innovation Award (Society for Science 2021), Stockholm Junior Water Prize (2021), First Place Biology Project (ScienceMONTGOMERY 2021), AP Scholar w/ Distinction (2020-22), Governor’s Merit Scholastic Award
+Recognition: DC News Now - “Montgomery County High School Student Explains Shocking Environmental Findings”,
+Moco Show - “Winston Churchill High School Student Receives Internship Assisting NASA at University of Texas”
+Publications: Readcube - A Multiscale Data Set Linking Remotely Sensed Land Cover With Field-Based Observation
+
+
+SKILLS & INTERESTS
+Technical Skills: SwiftUI, Firebase, Github, React Native, Matlab, Java, Python, JavaScript, Solidworks, R, HTML, CSS
+Biomedical Skills: Dynamic Light Scattering, Protein Crystallization, Protein Synthesis, Protein X-ray Crystallography
+Interests: Backpacking, fishing, hiking, gym, cooking, golf, lacrosse, tennis, NFL, PGA Tour, cars, travel

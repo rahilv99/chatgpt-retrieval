@@ -1,0 +1,27 @@
+       In his book Zero to One, Peter Thiel states, �The most valuable businesses will be built by entrepreneurs who seek to 
+       empower people rather than try to make them obsolete.� This embodies my philosophy in engineering and is a core value 
+       of mine.  
+       
+       In addition to my commitment to empowering others, I am well-qualified for this position. In my freshman year, I 
+       created Link, a location-based interactive platform, to make meeting up with friends amidst the hustle of college 
+       life easier. Rather than navigating conflicting schedules to coordinate lunch plans, one can select a location,
+        like the dining hall, and mark an intended visit while others in the group can view and join the event. Live 
+        location enables individuals heading in the same direction or with overlapping breaks to plan activities effortlessly.
+         I developed Link alongside two other developers utilizing Xcode and Firebase. In November of 2023, I began 
+         consulting through the Duke Consulting Club for Glow, a startup with a similar event-planning idea. Through
+          conversations with the owner of Glow and my team, we decided it would be best for us to sell Link to Glow 
+          to integrate our technologies and create a better user experience. 
+
+	In addition to my individual initiatives, I have technical expertise that would prove useful in an innovative 
+       company. As a teaching assistant for CS201 (Data Structures and Algorithms), I have had the opportunity to lead
+        a weekly discussion section and office hours covering the fundamentals of coding in Java. Outside of the classroom, 
+        I worked at the Center for Global Women�s Health Technologies writing Python and MATLAB code to process images 
+        of breast cancer tumors. My programs significantly increased efficiency, demonstrating my capacity to improve 
+        operations by making data-driven decisions. I also have proficiency in CAD using Fusion360 and SolidWorks from 
+        my time spent in Duke Enable. I model and construct prosthetics using 3D scans that help our clients break through 
+        the limits of their physical disabilities. You can check out more about my personal projects and technical 
+        skills at my website rahilverma.com.
+
+	My proficiency in technical skills, interpersonal skills, and dedication to problem-solving make me a valuable 
+       asset. Thank you for considering my application.
+
